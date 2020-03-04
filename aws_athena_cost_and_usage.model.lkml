@@ -1,4 +1,4 @@
-connection: "aws_optimizer"
+connection: "aws_billing"
 
 # include all the views
 include: "*.view"
